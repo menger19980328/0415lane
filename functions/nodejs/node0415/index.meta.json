@@ -1,0 +1,16 @@
+{
+  "apiID": "package_584f4a__c__function_aadh7xh72yiji",
+  "apiName": "node0415",
+  "label": {
+    "zh_CN": "node 0415",
+    "en_US": "node 0415"
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": true,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}
